@@ -1,6 +1,1 @@
-do you have skype? 
-my skype id
-live:.cid.6230072101025fc3
-
-in here, it will be easy to discuss project detail.
-
+I am Big Data and Data Analyst Engineer with 7 years of experience, Have expertise in building complete Big Data solutions which involves Data Modelling, Big data batch & stream processing (Hadoop, Spark, Flink ..), Designing Warehouses / Data lakes, setting up ETL pipelines, data ingestion (kafka), and building dashboards and charts. I am proficient in Python / SQL , Data Analysis , Data Cleaning, Data processing, Data Visualizations. I can help automate your tasks and solve complex problems with best practices to get you most out of your data.
